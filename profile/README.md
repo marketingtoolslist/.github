@@ -10,6 +10,7 @@ Our GitHub Projects
 
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Awesome Marketing Books](https://github.com/marketingtoolslist/awesome-marketing-books)
+- [Awesome Marketing Newsletters](https://github.com/marketingtoolslist/awesome-marketing-newsletters)
 
 
 
