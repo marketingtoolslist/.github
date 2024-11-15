@@ -3,7 +3,7 @@ Welcome to [Marketing Tools List](https://marketingtoolslist.com) 👋
 
 Marketing Tools List is your ultimate marketing tool finder, providing a curated list of [marketing apps and tools](https://marketingtoolslist.com)
 
-You can follow us on [X](https://x.com/marketingtoool), [Linkedin](https://linkedin.com/company/marketingtoolslist), [Facebook](https://www.facebook.com/marketingtoolslist/), [Medium](https://medium.com/marketingtoolslist) and [Bluesky](https://bsky.app/profile/marketingtools.bsky.social).
+You can follow us on [Linktree](https://linktr.ee/marketingtoolslist) ,[X](https://x.com/marketingtoool), [Linkedin](https://linkedin.com/company/marketingtoolslist), [Facebook](https://www.facebook.com/marketingtoolslist/), [Medium](https://medium.com/marketingtoolslist) and [Bluesky](https://bsky.app/profile/marketingtools.bsky.social).
 
 Our GitHub Projects
 --------------------
